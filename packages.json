@@ -1,0 +1,14 @@
+[
+    {
+        "package": "chronicler",
+	      "url": "https://github.com/b-rodrigues/chronicler"
+    },
+      {
+        "package": "rix",
+	      "url": "https://github.com/b-rodrigues/rix"
+    },
+        {
+        "package": "michelRodange",
+	      "url": "https://github.com/b-rodrigues/michelRodange"
+    }
+]
