@@ -5,7 +5,7 @@
     },
       {
         "package": "rix",
-	      "url": "https://github.com/b-rodrigues/rix"
+	      "url": "https://github.com/ropensci/rix"
     },
         {
         "package": "michelRodange",
