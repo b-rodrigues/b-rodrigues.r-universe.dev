@@ -7,6 +7,10 @@
         "package": "rix",
 	      "url": "https://github.com/ropensci/rix"
     },
+    {
+        "package": "rixpress",
+	      "url": "https://github.com/ropensci/rixpress"
+    },
         {
         "package": "michelRodange",
 	      "url": "https://github.com/b-rodrigues/michelRodange"
